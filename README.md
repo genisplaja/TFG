@@ -1,1 +1,1 @@
-# TFG: Real-time audio recognition for scientific purposes
+# TFG 2020: Real-time audio classification to detect scientific hardware malfunction
